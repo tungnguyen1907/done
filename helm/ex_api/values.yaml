@@ -1,0 +1,3 @@
+image: nirajsonawane/student-app-api:0.0.1-SNAPSHOT
+port: 8080
+rep : 1
