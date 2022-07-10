@@ -8,7 +8,7 @@ api:
 client:
   name: student-app-client
   repCount: 1
-  image: tungnguyenhcl/management-web-app
+  image: tungnguyenhcl/student-app-client
   port: 80
   targetPort: 80
 
