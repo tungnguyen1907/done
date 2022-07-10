@@ -1,6 +1,6 @@
 apiVersion: v2
-name: ex_api
-description: thangsu/student-app-api
+name: done
+description: done
 
 # A chart can be either an 'application' or a 'library' chart.
 #
