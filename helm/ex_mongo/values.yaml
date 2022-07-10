@@ -1,6 +1,0 @@
-ports:
-  port: 27017
-  targetPort: 27017
-
-PersistentVolumeClaim:
-  name: mongo-pvc
